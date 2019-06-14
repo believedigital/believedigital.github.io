@@ -1,0 +1,13 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg" width="600" height="600" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd">
+    <defs>
+        <style>.fil0{fill:#A8518A;fill-rule:nonzero}</style>
+    </defs>
+    <g id="Camada_x0020_1">
+        <g id="_2512152495072">
+            <path class="fil0" d="M0 600h600V0H0v600zm35.15-35.15V175.78h529.71v389.07H35.15zM564.86 35.14v105.48H35.15V35.14h529.71z"/>
+            <path class="fil0" d="M70.31 105.47h35.16V70.31H70.31zM140.62 105.47h35.16V70.31h-35.16zM210.94 105.47h35.15V70.31h-35.15zM70.31 529.69h459.38V210.94H70.31v318.75zm35.16-283.6h389.06v248.44H105.47V246.09z"/>
+            <path class="fil0" d="M298.47 462.91l-34.45-7.03 36.33-178.12 34.44 7.02zM233.58 268.9L133.51 370.31l100.07 101.41 25.02-24.69-75.7-76.72 75.7-76.71zM340.31 293.68l76.63 76.63-76.63 76.64 24.85 24.85 101.5-101.49-101.5-101.49z"/>
+        </g>
+    </g>
+</svg>
